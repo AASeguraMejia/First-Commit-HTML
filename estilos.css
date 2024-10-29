@@ -1,0 +1,22 @@
+#principal{background-image: url(fondo2.jpg);
+background-size: cover;}
+
+.subtitulo{font-family:Arial;
+font-size:smaller;
+color: azure;
+}
+.titulo{color: rgb(233, 228, 223);}
+.list{color: rgb(232, 235, 235);}
+.parrafo{color: rgb(255, 255, 255);}
+.spam{color: rgb(213, 214, 216)}
+
+a {
+    padding: 5px;
+  }
+  
+  a:hover {
+    background: red;
+    color: white;
+    text-decoration: none;
+  }
+  
